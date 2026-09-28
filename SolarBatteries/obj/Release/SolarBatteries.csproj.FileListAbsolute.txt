@@ -1,0 +1,10 @@
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.AssemblyInfo.cs
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\SolarBatteries\bin\Release\SolarBatteries.deps.json
+C:\Users\Pichau\Documents\SolarBatteries\bin\Release\SolarBatteries.dll
+C:\Users\Pichau\Documents\SolarBatteries\bin\Release\SolarBatteries.pdb
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.dll
+C:\Users\Pichau\Documents\SolarBatteries\obj\Release\SolarBatteries.pdb
